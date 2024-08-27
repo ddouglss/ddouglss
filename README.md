@@ -30,11 +30,12 @@
 
   | <h2><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=3500&color=6474B9&vCenter=true&width=110&height=20&lines=Front-end" alt="Typing SVG" /></h2> | | <h2><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=4000&color=6474B9&vCenter=true&width=100&height=20&lines=Back-End" alt="Typing SVG" /></h2> | | <h2><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=4500&color=6474B9&vCenter=true&width=75&height=20&lines=Mobile" alt="Typing SVG" /></h2> |
   | - | - | - | - | - |
-  | <h3 align="center"> <img width="100px" src="https://img.shields.io/badge/figma%20-F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/> </br> <img width="100px" src ="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=TypeScript&logoColor=white"/> </br> <img width="100px" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> </br> <img width="100px" src="https://img.shields.io/badge/react%20JS%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> </br> <img width="100px" src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/> </br> </h3> |  | <h3 align="center">  <img width="100px" src ="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=TypeScript&logoColor=white"/> </br> <img width="100vw" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> </br> <img width="100px" src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/> </br> <img width="100px" src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/> </br> <img width="100px" src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white"/> </br> <img width="100px" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/> </br> <img width="100px" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/> </br> </h3> |  | <h3 align="center"> </br> <img width="100px" src ="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/> </br> <img width="100px" src ="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/> </br> <img width="100px" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white"/> </br> </h3> |
+  |<img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  | <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> |<img align="center" alt="csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />  |  |  |
   </a>
 
   <a href="https://github.com/ddouglss">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=3000&color=6474B9&vCenter=true&width=370&height=40&lines=Especialização • DevOps e Cloud"/> 
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=3000&color=6474B9&vCenter=true&width=370&height=40&lines=Especialização • DevOps"/> 
   </a>
   
 
@@ -44,9 +45,10 @@
 ## <a href="https://www.linkedin.com/in/douglas-souza-silva-600030253/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=3000&color=6474B9&vCenter=true&width=85&height=20&lines=Socials" alt="Typing SVG" /></a>
 
 <div>
- </a> <a href="https://www.linkedin.com/in/kayo-galdino/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/ddouglss/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.instagram.com/ddouglss/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/ddouglss/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> 
-  <a href="https://github.com/ddouglss"><img align="right" alt="Custom badge" src="https://img.shields.io/endpoint?style=social&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D17103%26project%3D%26in%3D604800000"></a>
-  <a href="https://github.com/douglss"><img align="right" src="https://visitcount.itsvg.in/api?id=ddouglssG&label=Profile%20Views&color=12&icon=5&pretty=true" /></a>
+  <a href="https://instagram.com/ddouglss" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href ="mailto:ddouglss1999@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/douglas-souza-silva-600030253" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
 <a href="https://github.com/ddouglss">
@@ -54,6 +56,25 @@
 </a>
  
  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
  
  
  
