@@ -31,7 +31,7 @@
   | <h2><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=3500&color=6474B9&vCenter=true&width=110&height=20&lines=Front-end" alt="Typing SVG" /></h2> | | <h2><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=4000&color=6474B9&vCenter=true&width=100&height=20&lines=Back-End" alt="Typing SVG" /></h2> | | <h2><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=4500&color=6474B9&vCenter=true&width=75&height=20&lines=Mobile" alt="Typing SVG" /></h2> |
   | - | - | - | - | - |
   |<img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  | <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> |<img align="center" alt="csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />  |  |  |
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> |  |<img align="center" alt="csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />  |  |
   </a>
 
   <a href="https://github.com/ddouglss">
