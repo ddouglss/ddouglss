@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Douglas Muniz 😁
+## Bem-vindo(a) sou Douglas Muniz 😁
 
  <div>
    <a href="https://github.com/ddouglss">
