@@ -1,5 +1,3 @@
-## Bem-vindo(a) sou Douglas Muniz 😁
-
 <a href="https://github.com/ddouglss"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=423A5E&height=180&section=header&text=Douglas+Muniz+&fontSize=30&fontColor=6474B9&animation=twinkling&fontAlignY=35"/></a>
 
 <div align="center">
@@ -10,7 +8,7 @@
 
 <div align="left">
   <a href="https://github.com/ddouglss">
-    <img width="465px" height="140px"  align="left" src="https://github-readme-stats.vercel.app/api?username=Douglas&show_icons=true&count_private=true&hide_border=true&title_color=6474B9&icon_color=6474B9&text_color=937CD5&bg_color=0a0c10&hide=contribs&thme=transparent&include_all_commits=true&rank_icon=github" alt="Douglas Muniz github stats" />
+    <img width="465px" height="140px"  align="left" src="https://github-readme-stats.vercel.app/api?username=ddouglss&show_icons=true&count_private=true&hide_border=true&title_color=6474B9&icon_color=6474B9&text_color=937CD5&bg_color=0a0c10&hide=contribs&thme=transparent&include_all_commits=true&rank_icon=github" alt="Douglas Muniz github stats" />
     <img width="427px" height="200px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddouglss&layout=compact&hide_border=true&title_color=6474B9&text_color=937CD5&bg_color=0a0c10&thme=transparent" />
     <a href="https://github.com/ddouglss"><img height="350px"  src="https://avatars.githubusercontent.com/u/120577393?s=400&u=9e4af5c32f6a64a33b5ec5b86fc4866180dc71b1&v=4" alt="Douglas Muniz's Dev Card"/></a>
   </a>
