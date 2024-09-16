@@ -9,7 +9,7 @@
 <div align="left">
   <a href="https://github.com/ddouglss">
     <img width="465px" height="140px"  align="left" src="https://github-readme-stats.vercel.app/api?username=ddouglss&show_icons=true&count_private=true&hide_border=true&title_color=6474B9&icon_color=6474B9&text_color=937CD5&bg_color=0a0c10&hide=contribs&thme=transparent&include_all_commits=true&rank_icon=github" alt="Douglas Muniz github stats" />
-    <img width="427px" height="200px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddouglss&layout=compact&hide_border=true&title_color=6474B9&text_color=937CD5&bg_color=0a0c10&thme=transparent" />
+    <img width="427px" height="200px" align="left" src="[https://github-readme-stats.vercel.app/api/top-langs/](https://th.bing.com/th/id/OIP.MKIrLrjU8L_m1vX-IJQl3QHaMt?w=119&h=205&c=7&r=0&o=5&pid=1.7)?username=ddouglss&layout=compact&hide_border=true&title_color=6474B9&text_color=937CD5&bg_color=0a0c10&thme=transparent" />
     <a href="https://github.com/ddouglss"><img height="350px"  src="https://avatars.githubusercontent.com/u/120577393?s=400&u=9e4af5c32f6a64a33b5ec5b86fc4866180dc71b1&v=4" alt="Douglas Muniz's Dev Card"/></a>
   </a>
 </div>
