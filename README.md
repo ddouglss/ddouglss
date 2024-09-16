@@ -10,7 +10,8 @@
   <a href="https://github.com/ddouglss">
     <img width="465px" height="140px"  align="left" src="https://github-readme-stats.vercel.app/api?username=ddouglss&show_icons=true&count_private=true&hide_border=true&title_color=6474B9&icon_color=6474B9&text_color=937CD5&bg_color=0a0c10&hide=contribs&theme=transparent&include_all_commits=true&rank_icon=github" alt="Douglas Souza github stats" />
     <img width="427px" height="200px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddouglss&layout=compact&hide_border=true&title_color=6474B9&text_color=937CD5&bg_color=0a0c10&theme=transparent" />
-    <a href="https://github.com/ddouglss"><img height="350px"  src="https://github.com/ddouglss/ddouglss/blob/main/devcard.svg" alt="Douglas Souza's Dev Card"/></a>
+    <a href="https://github.com/ddouglss"><img height="350px"  src="![image](https://github.com/user-attachments/assets/95fc49cd-43e8-4eb4-b94e-3c933071a250)
+" alt="Douglas Souza's Dev Card"/></a>
   </a>
 </div>
 
