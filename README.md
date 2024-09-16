@@ -2,15 +2,15 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6474B9&size=35&center=true&vCenter=true&width=1000&lines=HI,+I+am+Douglas+Muniz;I'm+25+years+old;I+am+from+Brasília,+DF;I+study+Analise+Desenvolvimento+de+Sistemas+at+Estacio;Be+Welcome!🎉)](https://github.com/ddouglss)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6474B9&size=35&center=true&vCenter=true&width=1000&lines=HI,+I+am+Douglas+Souza;I'm+25+years+old;I+am+from+Brasília,+DF;I+study+Analise+Desenvolvimento+de+Sistemas+at+Estacio;Be+Welcome!🎉)](https://github.com/ddouglss)
 
 </div>
 
 <div align="left">
   <a href="https://github.com/ddouglss">
     <img width="465px" height="140px"  align="left" src="https://github-readme-stats.vercel.app/api?username=ddouglss&show_icons=true&count_private=true&hide_border=true&title_color=6474B9&icon_color=6474B9&text_color=937CD5&bg_color=0a0c10&hide=contribs&thme=transparent&include_all_commits=true&rank_icon=github" alt="Douglas Muniz github stats" />
-    <img width="427px" height="200px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/username=ddouglss&layout=compact&hide_border=true&title_color=6474B9&text_color=937CD5&bg_color=0a0c10&thme=transparent" />
-    <a href="https://github.com/ddouglss"><img height="350px"  src="https://avatars.githubusercontent.com/u/120577393?s=400&u=9e4af5c32f6a64a33b5ec5b86fc4866180dc71b1&v=4" alt="Douglas Muniz's Dev Card"/></a>
+    <img width="427px" height="200px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KAYOKG&layout=compact&hide_border=true&title_color=6474B9&text_color=937CD5&bg_color=0a0c10&thme=transparent" />
+    <a href="https://github.com/ddouglss"><img height="350px"  src="https://github.com/ddouglss/ddouglss/blob/main/devcard.svg" alt="Douglas Souza's Dev Card"/></a>
   </a>
 </div>
 
@@ -18,7 +18,7 @@
 
 <div align="center">
 
-[![KG's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ddouglss&bg_color=0a0c10&color=937CD5&line=6474B9&point=937CD5&area=true&hide_border=false)](https://github.com/ddouglss)
+[![DG's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ddouglss&bg_color=0a0c10&color=937CD5&line=6474B9&point=937CD5&area=true&hide_border=false)](https://github.com/ddouglss)
 
 </div>
 
