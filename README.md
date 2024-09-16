@@ -2,11 +2,9 @@
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=423A5E&height=180&section=header&text=Douglas+Souza+Silva&fontSize=30&fontColor=6474B9&animation=twinkling&fontAlignY=35"/>
 </a>
 
-<div align="center">
-  
+
   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6474B9&size=35&center=true&vCenter=true&width=1000&lines=HI,+I+am+Douglas+Souza;I'm+25+years+old;I+am+from+Brasília,+DF;I+study+Analise+Desenvolvimento+de+Sistemas+at+Estacio;Be+Welcome!🎉)](https://github.com/ddouglss)
 
-</div>
 
 ---
 
@@ -28,9 +26,7 @@
 
 <br clear="left" />
 
-<div align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com?user=ddouglss&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=ddouglss&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ---
 
@@ -72,6 +68,13 @@
 
 ---
 
+## 🚀 **Projects Highlights**
+
+- [Projeto Inspire](https://github.com/ddouglss/Projeto-Inspire) - An app for mental health support, built using .NET MAUI and Firebase.
+- [My Portfolio](https://github.com/ddouglss/portfolio) - A personal website built with React and TypeScript.
+
+---
+
 ## 🎯 **Current Focus**
 
 - 🌱 Working on the **Inspire Project**, using **.NET MAUI** and **C#** to develop a mobile app for mental health support.
@@ -87,11 +90,9 @@
 
 ---
 
-## 📊 **GitHub Activity Graph**
+## 📈 **GitHub Activity Graph**
 
-<div align="center">
-  [![DG's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ddouglss&bg_color=0a0c10&color=937CD5&line=6474B9&point=937CD5&area=true&hide_border=false)](https://github.com/ddouglss)
-</div>
+[![DG's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ddouglss&bg_color=0a0c10&color=937CD5&line=6474B9&point=937CD5&area=true&hide_border=false)](https://github.com/ddouglss)
 
 ---
 
