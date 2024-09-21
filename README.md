@@ -7,18 +7,20 @@
 
 
 ---
+<div align="Center"> 
+  <a src= "https://github.com/ddouglss">
+  <img src="https://github.com/user-attachments/assets/5625962d-8f12-4d9b-9c13-0026cb72c5db" alt="160" width="150" />
+  </a>
+</div>
 
 ## 🚀 **About Me**
-
+  
 🎓 I am studying **Systems Analysis and Development** at **Estácio**  
 💻 Focused on **.NET, C#, Python, and Mobile Development**  
 🌱 Passionate about **Mental Health** and currently working on the **Inspire Project**  
 📫 You can reach me at **[ddouglss1999@gmail.com](mailto:ddouglss1999@gmail.com)**  
 
-<div align="Right"> 
-  <img width="140px" height="240px" scr="https://github.com/user-attachments/assets/fc0d2872-611e-4345-ba08-8b5cb5cc5271"
- />
-</div>
+
 
 ---
 
