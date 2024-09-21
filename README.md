@@ -15,6 +15,11 @@
 🌱 Passionate about **Mental Health** and currently working on the **Inspire Project**  
 📫 You can reach me at **[ddouglss1999@gmail.com](mailto:ddouglss1999@gmail.com)**  
 
+<div align="Right"> 
+  <img width="140px" height="240px" scr="https://github.com/user-attachments/assets/fc0d2872-611e-4345-ba08-8b5cb5cc5271"
+ />
+</div>
+
 ---
 
 <div align="center">
