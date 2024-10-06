@@ -72,7 +72,7 @@
 ## 🚀 **Projects Highlights**
 
 - [Projeto Inspire](https://github.com/ddouglss/Cvv_mobile) - An app for mental health support, built using .NET MAUI and Firebase.
-- [My Portfolio](https://github.com/ddouglss/portfolio) - A personal website built with React and TypeScript.
+- [My Portfolio]([https://github.com/ddouglss/portfolio](https://shiny-banoffee-6d6c14.netlify.app/#)) - A personal website built with React and TypeScript.
 
 ---
 
