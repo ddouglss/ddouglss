@@ -35,6 +35,9 @@
 
 ### Front-end Skills:
 <div align="center">
+  
+
+  <img src="https://github.com/user-attachments/assets/b3dbdb6e-4d8c-434b-acbc-b5974a7d9002" alt=".NET" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="TypeScript" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/> 
