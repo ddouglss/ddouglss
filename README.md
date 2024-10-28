@@ -10,7 +10,8 @@
 
 ## 🚀 **About Me**
   
-🎓 I am studying **Systems Analysis and Development** at **Estácio**  
+🎓 I am studying **Systems Analysis and Development** at **Estácio** 
+🎓 I have a dregee in **Systems Development Technician** at **IFB** 
 💻 Focused on **.NET, C#, and Mobile Development**  
 🌱 Passionate about **Mental Health** and currently working on the **Inspire Project**  
 📫 You can reach me at **[ddouglss1999@gmail.com](mailto:ddouglss1999@gmail.com)**  
