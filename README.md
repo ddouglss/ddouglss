@@ -11,7 +11,7 @@
 ## 🚀 **About Me**
   
 🎓 I am studying **Systems Analysis and Development** at **Estácio**  
-💻 Focused on **.NET, C#, Python, and Mobile Development**  
+💻 Focused on **.NET, C#, and Mobile Development**  
 🌱 Passionate about **Mental Health** and currently working on the **Inspire Project**  
 📫 You can reach me at **[ddouglss1999@gmail.com](mailto:ddouglss1999@gmail.com)**  
 
