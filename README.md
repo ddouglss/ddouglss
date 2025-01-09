@@ -3,7 +3,7 @@
 </a>
 
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6474B9&size=35&center=true&vCenter=true&width=1000&lines=HI,+I+am+Douglas+Souza;I'm+25+years+old;I+am+from+Brasília,+DF;I+study+Analise+Desenvolvimento+de+Sistemas+at+Estacio;Be+Welcome!🎉)](https://github.com/ddouglss)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6474B9&size=35&center=true&vCenter=true&width=1000&lines=HI,+I+am+Douglas+Souza;I'm+25+years+old;I+am+from+Brasília,+DF;I+study+Analise+Desenvolvimento+de+System+at+Estacio;Be+Welcome!🎉)](https://github.com/ddouglss)
 
 
 ---
