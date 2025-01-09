@@ -7,14 +7,12 @@
 
 
 ---
-
 ## 🚀 **About Me**
-<div>🎓 I have a dregee in **Systems Development Technician** at **IFB**</div>
-<div>🎓 I am studying **Systems Analysis and Development** at **Estácio**</div>
-<div>💻 Focused on **.NET, C#, and Mobile Development**  </div>
-<div>🌱 Passionate about **Mental Health** and currently working on the **Inspire Project**  </div>
-<div>📫 You can reach me at **[ddouglss1999@gmail.com](mailto:ddouglss1999@gmail.com)**</div>  
-
+<div>🎓 I have a dregee in <b>Systems Development Technician at IFB</b></div>
+<div>🎓 I am studying <b>Systems Analysis and Development at Estácio</b></div>
+<div>💻 Focused on <b>.NET, C#, and Mobile Development</b> </div>
+<div>🌱 Passionate about <b>Mental Health** and currently working on the **Inspire Project</b>  </div>
+<div>📫 You can reach me at <b><a href ="ddouglss1999@gmail.com">ddouglss1999@gmail.com</a></b></div>  
 
 ---
 
@@ -92,11 +90,6 @@
 
 ---
 
-## 📈 **GitHub Activity Graph**
-
-[![DG's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ddouglss&bg_color=0a0c10&color=937CD5&line=6474B9&point=937CD5&area=true&hide_border=false)](https://github.com/ddouglss)
-
----
 
 ## 🔗 **Connect With Me**
 
