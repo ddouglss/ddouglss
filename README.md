@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Douglas Souza
+# 💻 Douglas Souza
 
 **`Desenvolvedor FullStack`**
 
