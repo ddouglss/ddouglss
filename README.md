@@ -37,13 +37,13 @@ Sou Douglas Souza Silva, tenho 25 anos e sou de Brasília. Me formei em Técnico
             src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCN1dWqTTJGo3colMki1yb8Q?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
         />
     </a> 
-    <a href="https://github.com/ddouglss?tab=repositories&sort=stargazers">
+<!--    <a href="https://github.com/ddouglss?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
             src="https://custom-icon-badges.demolab.com/github/stars/ddouglss?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
-    </a>
+    </a> -->
     <a href="https://github.com/ddouglss?tab=followers">
         <img 
             alt="Seguidores" 
