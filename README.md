@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Sou Douglas Souza Silva, tenho 25 anos e sou de Brasília. Me formei em Técnico em Desenvolvimento de Sistemas pelo IFB e atualmente estou cursando Análise e Desenvolvimento de Sistemas na Estácio. Tenho uma grande paixão por tecnologia e programação, e me dedico a compartilhar meu aprendizado e experiências por meio do meu canal no YouTube, "[Coding Dev Brasil](www.youtube.com/@CodingDevBrasil)", onde ensino programação, boas práticas de desenvolvimento e compartilho dicas sobre o mundo da tecnologia e também através do meu Linkedin "[Douglas Souza](https://www.linkedin.com/in/ddouglss/)", onde publico posts e artigos de programação.
+Sou Douglas Souza Silva, tenho 25 anos e sou de Brasília. Me formei em Técnico em Desenvolvimento de Sistemas pelo IFB e atualmente estou cursando Análise e Desenvolvimento de Sistemas na Estácio. Tenho uma grande paixão por tecnologia e programação, e me dedico a compartilhar meu aprendizado e experiências por meio do meu canal no YouTube, "[Coding Dev Brasil](www.youtube.com/CodingDevBrasil)", onde ensino programação, boas práticas de desenvolvimento e compartilho dicas sobre o mundo da tecnologia e também através do meu Linkedin "[Douglas Souza](https://www.linkedin.com/in/ddouglss/)", onde publico posts e artigos de programação.
     <!-- Social icons section -->
  <!--<p align="center">
   <a href="https://www.youtube.com/c/CodingDevBrasil"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
