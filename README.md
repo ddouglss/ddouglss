@@ -217,7 +217,3 @@ Sou Douglas Souza Silva, tenho 25 anos e sou de Brasília. Me formei em Técnico
   />
 
 </p>
-
-## 🐍 Snake Game
-![snake gif](https://github.com/ddouglss/ddouglss/blob/output/github-snake-dark.svg?palette=github-dark)
-
