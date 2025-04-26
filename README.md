@@ -111,14 +111,14 @@ Sou Douglas Souza Silva, tenho 25 anos e sou de Brasília. Me formei em Técnico
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
 />
-<img 
+<!--<img 
     align="left" 
     alt="angular" 
     title="angular"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" 
-/>
+/> -->
 <img 
     align="left" 
     alt="React"
@@ -127,14 +127,14 @@ Sou Douglas Souza Silva, tenho 25 anos e sou de Brasília. Me formei em Técnico
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
-<img 
+<!--<img 
     align="left" 
     alt="vuejs"
     title="vuejs" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg"
-/>
+/>-->
 <img 
     align="left" 
     alt="JavaScript" 
