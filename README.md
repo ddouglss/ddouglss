@@ -3,9 +3,9 @@
 
 🎓 Formado Desenvolvimento de Sistemas pelo Intituto Federal de Brasília e no último semestre em Analise e Desenvolvimento de Sistemas pela Estácio.
 <b>Desenvolvedor de Software em grande evolução.</b>
-Caso queria ver meus projetos aqui e saber mais sobre o **Douglas Souza** meu <a href="https://portfolio-ddouglss.vercel.app">portfólio</a>
+Caso queria ver meus projetos aqui e saber mais sobre o **Douglas Souza** meu <a href="https://portfolio-ddouglss.vercel.app" target="_blank">portfólio</a>
 <p>
-📲 Minhas redes sociais se você queira se comunicar comigo, <a href="https://www.instagram.com/ddouglss/)">instagram</a>, <a href="https://www.youtube.com/@CodingDevBrasil">YouTube</a>, <a href="https://www.linkedin.com/in/ddouglss/">Linkedin</a>, onde publico posts e artigos de programação. Caso queira me enviar um e-mail <a href="mailto:ddouglss1999@gmail.com?subject=Assunto%20do%20Email&body=Olá,%20gostaria%20de%20falar%20sobre..."> envie aqui</a>  
+📲 Minhas redes sociais se você queira se comunicar comigo, <a href="https://www.instagram.com/ddouglss/" target="_blank">instagram</a>, <a href="https://www.youtube.com/@CodingDevBrasil" target="_blank">YouTube</a>, <a href="https://www.linkedin.com/in/ddouglss/" target="_blank">Linkedin</a>, onde publico posts e artigos de programação. Caso queira me enviar um e-mail <a href="mailto:ddouglss1999@gmail.com?subject=Assunto%20do%20Email&body=Olá,%20gostaria%20de%20falar%20sobre..." target="_blank"> envie aqui</a>  
 </p>
 
 <p align="center">
