@@ -1,11 +1,16 @@
 
 **`👨‍💻 Desenvolvedor FullStack`**
 
-🎓 Formado Desenvolvimento de Sistemas pelo Intituto Federal de Brasília e no último semestre em Analise e Desenvolvimento de Sistemas pela Estácio.
+🎓 Formado em Desenvolvimento de Sistemas pelo Instituto Federal de Brasília e no último semestre em Análise e Desenvolvimento de Sistemas pela Estácio.
 <b>Desenvolvedor de Software em grande evolução.</b>
-Caso queria ver meus projetos aqui e saber mais sobre o **Douglas Souza** meu <a href="https://portfolio-ddouglss.vercel.app" target="_blank">portfólio</a>
+Caso queira ver meus projetos e saber mais sobre o <strong>Douglas Souza</strong>, acesse meu <a href="https://portfolio-ddouglss.vercel.app" target="_blank" rel="noopener noreferrer">portfólio</a>.
+
 <p>
-📲 Minhas redes sociais se você queira se comunicar comigo, <a href="https://www.instagram.com/ddouglss/" target="_blank">instagram</a>, <a href="https://www.youtube.com/@CodingDevBrasil" target="_blank">YouTube</a>, <a href="https://www.linkedin.com/in/ddouglss/" target="_blank">Linkedin</a>, onde publico posts e artigos de programação. Caso queira me enviar um e-mail <a href="mailto:ddouglss1999@gmail.com?subject=Assunto%20do%20Email&body=Olá,%20gostaria%20de%20falar%20sobre..." target="_blank"> envie aqui</a>  
+📲 Minhas redes sociais para contato: 
+<a href="https://www.instagram.com/ddouglss/" target="_blank" rel="noopener noreferrer">Instagram</a>, 
+<a href="https://www.youtube.com/@CodingDevBrasil" target="_blank" rel="noopener noreferrer">YouTube</a>, 
+<a href="https://www.linkedin.com/in/ddouglss/" target="_blank" rel="noopener noreferrer">LinkedIn</a>, 
+onde publico posts e artigos sobre programação. Para enviar um e-mail, <a href="mailto:ddouglss1999@gmail.com?subject=Contato%20via%20Portfólio&body=Olá%20Douglas,%20gostaria%20de%20falar%20sobre..." target="_blank" rel="noopener noreferrer">clique aqui</a>.
 </p>
 
 <p align="center">
