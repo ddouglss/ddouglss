@@ -46,11 +46,6 @@ where I share programming content and insights.
     <img src="https://skillicons.dev/icons?i=java,cs,nodejs,spring,dotnet,aws,terraform,docker,kafka,redis,mongodb,mysql,postgres,react,nextjs" />
   </a>
 </p>
-  
-          
-
-<br/>
-<br/>
 
 <!--### 📊 Estatísticas
 <p>
