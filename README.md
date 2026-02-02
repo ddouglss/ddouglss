@@ -1,7 +1,7 @@
 
 **`👨‍💻 Software Engineer`**
 
-🎓 Graduated in Systems Development from the Federal Institute of Brasília and currently in the final semester of Systems Analysis and Development at Estácio. <strong>Backend software developer at WPiN.</strong>
+🎓 Graduated in Systems Development from the Federal Institute of Brasília and currently in the final semester of Systems Analysis and Development at Estácio. <strong>Backend software developer at 5asec.</strong>
 
 Check out my projects and learn more about <strong>Douglas Souza</strong> on my <a href="https://portfolio-ddouglss.vercel.app" target="_blank" rel="noopener noreferrer">portfolio</a>.
 
