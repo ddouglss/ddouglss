@@ -8,7 +8,7 @@ Check out my projects and learn more about <strong>Douglas Souza</strong> on my 
 <p>
 📲 Connect with me: 
 <a href="https://www.instagram.com/ddouglss/" target="_blank" rel="noopener noreferrer">Instagram</a>, 
-<a href="https://www.youtube.com/@CodingDevBrasil" target="_blank" rel="noopener noreferrer">YouTube</a>, 
+<a href="https://www.youtube.com/@dsouzadevia" target="_blank" rel="noopener noreferrer">YouTube</a>, 
 <a href="https://www.linkedin.com/in/ddouglss/" target="_blank" rel="noopener noreferrer">LinkedIn</a> - 
 where I share programming content and insights.
 <br>
@@ -23,7 +23,7 @@ where I share programming content and insights.
             src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCN1dWqTTJGo3colMki1yb8Q?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
         />
     </a>
-    <a href="https://www.youtube.com/@CodingDevBrasil">
+    <a href="https://www.youtube.com/@dsouzadevia">
         <img 
             alt="youtube views" 
             title="Vizualizações no YouTube" 
